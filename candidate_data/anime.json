@@ -1,0 +1,83 @@
+[
+    {
+        "Name": "Sasuke",
+        "Address": "asad",
+        "City": "saad",
+        "Country": "sadas",
+        "Pincode": "12321",
+        "SAT Score": 98,
+        "Status": "Pass"
+    },
+    {
+        "Name": "Hinata",
+        "Address": "asad",
+        "City": "ssd",
+        "Country": "asda",
+        "Pincode": "1231",
+        "SAT Score": 98,
+        "Status": "Pass"
+    },
+    {
+        "Name": "Sasuke",
+        "Address": "Uchiha",
+        "City": "Konoha",
+        "Country": "Japan",
+        "Pincode": "890432",
+        "SAT Score": 98,
+        "Status": "Pass"
+    },
+    {
+        "Name": "Hinata",
+        "Address": "Hyugen",
+        "City": "Konoha",
+        "Country": "Japan",
+        "Pincode": "43223",
+        "SAT Score": 96,
+        "Status": "Pass"
+    },
+    {
+        "Name": "Nami",
+        "Address": "sa",
+        "City": "dfdf",
+        "Country": "ssa",
+        "Pincode": "87",
+        "SAT Score": 87,
+        "Status": "Pass"
+    },
+    {
+        "Name": "Naruto",
+        "Address": "sdasd",
+        "City": "sdasd",
+        "Country": "asa",
+        "Pincode": "342432",
+        "SAT Score": 37,
+        "Status": "Pass"
+    },
+    {
+        "Name": "Naruto",
+        "Address": "Leaf village",
+        "City": "Konoha",
+        "Country": "Japan",
+        "Pincode": "34432",
+        "SAT Score": 32,
+        "Status": "Pass"
+    },
+    {
+        "Name": "Shikamaru",
+        "Address": "Leaf Village",
+        "City": "Konoha",
+        "Country": "Japan",
+        "Pincode": "764644",
+        "SAT Score": 27,
+        "Status": "Fail"
+    },
+    {
+        "Name": "Makisuta",
+        "Address": "Leaf",
+        "City": "Konoha",
+        "Country": "Japan",
+        "Pincode": "098790",
+        "SAT Score": 12,
+        "Status": "Fail"
+    }
+]
